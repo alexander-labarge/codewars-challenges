@@ -1,4 +1,4 @@
-# This is my portfolio
+# Portfolio - Python Programming
 
 function_test.py: Demonstrates while true loop with user input that only allows integers, for an arithmetic operation of addition. The result is then printed.
 
