@@ -1,5 +1,9 @@
 # Portfolio - Python Programming
 
+anagrams.py: My solution for problem:
+
+![image](https://user-images.githubusercontent.com/103531175/191586362-69e6cd3f-543d-4ee9-a77e-9a16e6f54884.png)
+
 isprime.py: My solution for the following problem:
 
 ![image](https://user-images.githubusercontent.com/103531175/191585810-814c6447-43e2-48ae-aa6d-363bef7bd214.png)
