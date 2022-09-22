@@ -2,7 +2,7 @@
 
 int32toIPv4.py: My solution/ alogorithm to convert 32 Bit Unsigined integer to IPv4 Address:
 
-![image](https://user-images.githubusercontent.com/103531175/191865320-8b4cf432-d477-4451-9c63-6e8fcb801b6b.png)
+![image](https://user-images.githubusercontent.com/103531175/191865695-39bfc69e-8e6c-496d-bc7f-5f18ad9c3b52.png)
 
 regex_password_check.py: My solution/ alogorithm to validate password complexity.
 
